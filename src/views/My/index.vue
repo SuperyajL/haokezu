@@ -1,14 +1,12 @@
 <template>
-  <div id="app">
-    <h1>好客租房</h1>
-    <router-view></router-view>
-  </div>
+<div>
+    我的
+</div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  created () { },
+  created () {},
   data () {
     return {}
   },
@@ -20,5 +18,6 @@ export default {
 }
 </script>
 
-<style scoped lang="less">
+<style scoped lang='less'>
+
 </style>
